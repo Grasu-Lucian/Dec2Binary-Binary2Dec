@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/css/main.308b1a0b.chunk.css",
-    "main.js": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/js/main.55f01e0b.chunk.js",
-    "main.js.map": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/js/main.55f01e0b.chunk.js.map",
-    "runtime-main.js": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/js/runtime-main.0bb91536.js",
-    "runtime-main.js.map": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/js/runtime-main.0bb91536.js.map",
-    "static/js/2.6dec8bfc.chunk.js": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/js/2.6dec8bfc.chunk.js",
-    "static/js/2.6dec8bfc.chunk.js.map": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/js/2.6dec8bfc.chunk.js.map",
-    "index.html": "/Grasu-Lucian/Dec2Binary-Binary2Dec/index.html",
-    "static/css/main.308b1a0b.chunk.css.map": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/css/main.308b1a0b.chunk.css.map",
-    "static/js/2.6dec8bfc.chunk.js.LICENSE.txt": "/Grasu-Lucian/Dec2Binary-Binary2Dec/static/js/2.6dec8bfc.chunk.js.LICENSE.txt"
+    "main.css": "/Dec2Binary-Binary2Dec/static/css/main.308b1a0b.chunk.css",
+    "main.js": "/Dec2Binary-Binary2Dec/static/js/main.55f01e0b.chunk.js",
+    "main.js.map": "/Dec2Binary-Binary2Dec/static/js/main.55f01e0b.chunk.js.map",
+    "runtime-main.js": "/Dec2Binary-Binary2Dec/static/js/runtime-main.1c61ce50.js",
+    "runtime-main.js.map": "/Dec2Binary-Binary2Dec/static/js/runtime-main.1c61ce50.js.map",
+    "static/js/2.6dec8bfc.chunk.js": "/Dec2Binary-Binary2Dec/static/js/2.6dec8bfc.chunk.js",
+    "static/js/2.6dec8bfc.chunk.js.map": "/Dec2Binary-Binary2Dec/static/js/2.6dec8bfc.chunk.js.map",
+    "index.html": "/Dec2Binary-Binary2Dec/index.html",
+    "static/css/main.308b1a0b.chunk.css.map": "/Dec2Binary-Binary2Dec/static/css/main.308b1a0b.chunk.css.map",
+    "static/js/2.6dec8bfc.chunk.js.LICENSE.txt": "/Dec2Binary-Binary2Dec/static/js/2.6dec8bfc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0bb91536.js",
+    "static/js/runtime-main.1c61ce50.js",
     "static/js/2.6dec8bfc.chunk.js",
     "static/css/main.308b1a0b.chunk.css",
     "static/js/main.55f01e0b.chunk.js"
